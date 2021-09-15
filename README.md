@@ -1,1 +1,2 @@
-# EPProjects
+# EPProjects -- Enterprise programming Lecture programs
+
